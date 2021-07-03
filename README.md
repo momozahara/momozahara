@@ -2,8 +2,6 @@
 
 a man with no degree 👌
 
-currently looking for a job!!!
-
 <!--
 **momozahara/momozahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
