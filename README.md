@@ -1,8 +1,8 @@
 <h2 align="center">OS</h2>
 <p align="center">
 <a href="https://www.microsoft.com/"><img src="https://i.imgur.com/43zJNYg.png" width="64" /></a>
-&emsp;
-<a href="https://regolith-linux.org/"><img src="https://i.imgur.com/sZOLTlc.png" width="64" /></a>
+<!--&emsp;
+<a href="https://regolith-linux.org/"><img src="https://i.imgur.com/sZOLTlc.png" width="64" /></a>-->
 &emsp;
 <a href="https://ubuntu.com/"><img src="https://i.imgur.com/hGL5HfW.png" width="64" /></a>
 
