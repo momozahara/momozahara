@@ -1,4 +1,4 @@
-<h2 align="center">My Environment</h2>
+<h2 align="center">Environment</h2>
 <p align="center">
 <a href="https://github.com/momozahara/dev"><img src="https://i.imgur.com/43zJNYg.png" width="64" /></a>
 </p>
