@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://www.microsoft.com/"><img src="https://i.imgur.com/43zJNYg.png" width="64" /></a>
 &emsp;
-<a href="https://ubuntu.com/"><img src="https://i.imgur.com/hGL5HfW.png" width="64" /></a>
+<a href="https://pop.system76.com/"><img src="https://i.imgur.com/Wrgkeks.png" width="64" /></a>
 </p>
 
 <!--
