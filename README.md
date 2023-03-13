@@ -1,6 +1,6 @@
 # Pream Pinbut
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&repeat=false&width=435&lines=I+will+fall+in+%22Love%22+more+and+more.)](https://youtu.be/2j0sgTtXBQA)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&repeat=false&color=FF008BFF&width=435&lines=I+will+fall+in+%22Love%22+more+and+more.)](https://youtu.be/2j0sgTtXBQA)
 
 ### Dev Environment
 <a href="https://github.com/momozahara/dev/">
