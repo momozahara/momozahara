@@ -1,5 +1,7 @@
 # Pream Pinbut
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&repeat=false&width=435&lines=I+will+fall+in+%22Love%22+more+and+more.)](https://git.io/typing-svg)
+
 ### Dev Environment
 <a href="https://github.com/momozahara/dev/">
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
