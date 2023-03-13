@@ -22,7 +22,7 @@
 
 #
 
-### Language and Tools
+### Languages and Tools
 <a href="https://nodejs.org/">
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </a>
