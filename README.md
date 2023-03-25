@@ -6,6 +6,9 @@
 <a href="https://github.com/momozahara/dev/">
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </a>
+<a href="https://github.com/momozahara/dotfile/">
+  <img align="left" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/4673648" />
+</a>
 <br/>
 
 #
@@ -14,6 +17,9 @@
 
 <a href="https://www.microsoft.com/">
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+</a>
+<a href="https://archlinux.org/">
+  <img align="left" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/4673648" />
 </a>
 <a href="https://ubuntu.com/">
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
