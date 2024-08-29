@@ -80,8 +80,8 @@
 <a href="https://kubernetes.io/">
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg">
-  <img align="left" width="30px" style="padding-right:10px;" src="https://www.portainer.io" />
+<a href="https://www.portainer.io">
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" />
 </a>
 
 <!--
